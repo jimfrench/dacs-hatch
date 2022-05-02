@@ -1,0 +1,1180 @@
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 0
+POT READ: 0
+POT READ: 0 
+POT READ: 0
+POT READ: 0
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Stopped after 250 mS delay
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1
+POT READ: 2
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 3
+POT READ: 4
+POT READ: 5
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 6
+POT READ: 7
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 9
+POT READ: 10
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 11
+POT READ: 12
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 14
+POT READ: 16
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 17
+POT READ: 19
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 20
+POT READ: 22
+POT READ: 24
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 26
+POT READ: 28
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 29
+POT READ: 30
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 33
+POT READ: 35
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 37
+POT READ: 40
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 44
+POT READ: 47
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 51
+POT READ: 54
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 58
+POT READ: 61
+POT READ: 65
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 69
+POT READ: 73
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 78
+POT READ: 83
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 87
+POT READ: 92
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 97
+POT READ: 102
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 106
+POT READ: 111
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 116
+POT READ: 122
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 128
+POT READ: 134
+POT READ: 139
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 145
+POT READ: 150
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 156
+POT READ: 161
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 167
+POT READ: 173
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 179
+POT READ: 185
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 192
+POT READ: 197
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 204
+POT READ: 209
+POT READ: 214
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 220
+POT READ: 226
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 232
+POT READ: 237 
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 245
+POT READ: 251
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 257
+POT READ: 262
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 270
+POT READ: 275
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 280
+POT READ: 286
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 292
+POT READ: 299
+POT READ: 306
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 312
+POT READ: 318
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 325
+POT READ: 331
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 336
+POT READ: 342
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 348
+POT READ: 354
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 361
+POT READ: 367
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 373
+POT READ: 381
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 387
+POT READ: 393
+POT READ: 399
+POT READ: 405
+POT READ: 411
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 417
+POT READ: 421
+POT READ: 424
+POT READ: 425
+POT READ: 425
+POT READ: 426
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 426
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 430
+POT READ: 436
+POT READ: 443
+POT READ: 450
+POT READ: 455
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 460
+POT READ: 466
+POT READ: 468
+POT READ: 469
+POT READ: 468
+POT READ: 469
+POT READ: 469 
+POT READ: 468
+POT READ: 469
+POT READ: 469
+POT READ: 468
+POT READ: 468
+POT READ: 468
+POT READ: 469
+POT READ: 468
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 469
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 470
+POT READ: 477
+POT READ: 482
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 488
+POT READ: 495
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 502
+POT READ: 508
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 514
+POT READ: 521
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 526
+POT READ: 532
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 539
+POT READ: 545
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 551
+POT READ: 558
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 565
+POT READ: 571
+POT READ: 577
+MOTORPOT: Driving
+IR: Volume continuing up 
+POT READ: 583
+POT READ: 589
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 595
+POT READ: 600
+MOTORPOT: Driving 
+IR: Volume continuing up
+POT READ: 607
+POT READ: 612
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 618
+POT READ: 626
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 632
+POT READ: 639
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 644
+POT READ: 649
+POT READ: 656
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 662
+POT READ: 668
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 675
+POT READ: 680
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 687
+POT READ: 693
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 700
+POT READ: 705
+POT READ: 712
+POT READ: 717 
+POT READ: 724
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 728
+POT READ: 732
+POT READ: 735
+POT READ: 735
+POT READ: 736
+POT READ: 735
+POT READ: 736
+POT READ: 735
+POT READ: 735
+POT READ: 735
+POT READ: 735
+POT READ: 736
+MOTORPOT: Driving
+IR: Volume up 
+POT READ: 737
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 743
+POT READ: 749
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 755
+POT READ: 761
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 767
+POT READ: 771
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 778
+POT READ: 784
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 788
+POT READ: 796
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 803
+POT READ: 808
+POT READ: 814
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 821
+POT READ: 826
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 832
+POT READ: 838
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 843
+POT READ: 849
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 855
+POT READ: 861
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 865
+POT READ: 872
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 878
+POT READ: 883
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 888
+POT READ: 894
+POT READ: 899
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 905
+POT READ: 910
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 915
+POT READ: 921 
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 926
+POT READ: 930
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 934
+POT READ: 939
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 944
+POT READ: 948
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 951
+POT READ: 955
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 959
+POT READ: 963
+POT READ: 967
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 970
+POT READ: 973
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 977
+POT READ: 979
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 982
+POT READ: 985
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 988
+POT READ: 990
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 992
+POT READ: 993
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 995
+POT READ: 996
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 998
+POT READ: 1000
+POT READ: 1001
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1003
+POT READ: 1004
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1005
+POT READ: 1008
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1009
+POT READ: 1010
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1012
+POT READ: 1014
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1015
+POT READ: 1016
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1017
+POT READ: 1018
+POT READ: 1019
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1020
+POT READ: 1020
+MOTORPOT: Driving
+IR: Volume continuing up 
+POT READ: 1021
+POT READ: 1021
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1021
+POT READ: 1022
+MOTORPOT: Driving 
+IR: Volume continuing up
+POT READ: 1023 
+POT READ: 1022
+MOTORPOT: Driving
+IR: Volume continuing up
+POT READ: 1022
+POT READ: 1023
+POT READ: 1022
+POT READ: 1022
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume up
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume down
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume down
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Driving 
+IR: Volume continuing down
+POT READ: 1023
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1022
+POT READ: 1023
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1020
+POT READ: 1022 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1022
+POT READ: 1021
+POT READ: 1021
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1021
+POT READ: 1020
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1019
+POT READ: 1018
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1017
+POT READ: 1015
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1015
+POT READ: 1014
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1012
+POT READ: 1011
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1010
+POT READ: 1008
+POT READ: 1007
+MOTORPOT: Driving 
+IR: Volume continuing down
+POT READ: 1005
+POT READ: 1003
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1000
+POT READ: 1000
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 998
+POT READ: 996
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 995
+POT READ: 993
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 991
+POT READ: 990
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 987
+POT READ: 986
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 983
+POT READ: 980
+POT READ: 977
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 974
+POT READ: 970
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 966
+POT READ: 963
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 960
+POT READ: 956
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 952
+POT READ: 948
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 943
+POT READ: 939
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 935
+POT READ: 930
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 926
+POT READ: 921
+POT READ: 916
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 910
+POT READ: 905
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 900
+POT READ: 893 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 888 
+POT READ: 884
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 879
+POT READ: 872
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 866
+POT READ: 860
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 854
+POT READ: 849
+POT READ: 843
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 837
+POT READ: 832
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 826
+POT READ: 821
+POT READ: 815
+POT READ: 808
+POT READ: 802
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 797
+POT READ: 794
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 793
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+POT READ: 792
+MOTORPOT: Driving
+IR: Volume down
+POT READ: 792
+POT READ: 789
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 785
+POT READ: 779
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 773
+POT READ: 768
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 762
+POT READ: 757
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 752
+POT READ: 744
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 737
+POT READ: 731
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 725
+POT READ: 720
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 714
+POT READ: 708
+POT READ: 702 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 695
+POT READ: 690
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 683
+POT READ: 677
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 670
+POT READ: 664
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 659
+POT READ: 653
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 646
+POT READ: 641
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 633
+POT READ: 629
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 621
+POT READ: 615
+POT READ: 609
+POT READ: 603
+POT READ: 597
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 590
+POT READ: 587
+POT READ: 584
+POT READ: 583
+POT READ: 584
+POT READ: 584
+POT READ: 583
+POT READ: 583
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 583
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 584
+POT READ: 583
+POT READ: 583
+MOTORPOT: Driving
+IR: Volume down
+POT READ: 582
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 577
+POT READ: 571
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 565
+POT READ: 559
+MOTORPOT: Driving
+IR: Volume continuing down 
+POT READ: 551
+POT READ: 545
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 539
+POT READ: 533 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 527
+POT READ: 520
+POT READ: 515
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 509
+POT READ: 503
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 496
+POT READ: 490
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 483
+POT READ: 478
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 471
+POT READ: 465
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 459
+POT READ: 454
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 448
+POT READ: 441
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 435
+POT READ: 427
+POT READ: 421
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 415
+POT READ: 410
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 403
+POT READ: 398
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 392
+POT READ: 385
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 379
+POT READ: 372
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 366
+POT READ: 360
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 354
+POT READ: 347
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 341
+POT READ: 335
+POT READ: 330
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 325
+POT READ: 317
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 310
+POT READ: 305
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 298
+POT READ: 292
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 285
+POT READ: 280
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 275
+POT READ: 269
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 262
+POT READ: 257
+POT READ: 250
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 244
+POT READ: 238
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 231
+POT READ: 226 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 219
+POT READ: 214
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 208
+POT READ: 202
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 198
+POT READ: 192
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 186
+POT READ: 179
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 173
+POT READ: 168
+POT READ: 162
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 156
+POT READ: 151
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 145
+POT READ: 139
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 135
+POT READ: 129
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 123
+POT READ: 117
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 112
+POT READ: 107
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 103
+POT READ: 97
+POT READ: 93
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 89
+POT READ: 85
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 79
+POT READ: 75
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 71
+POT READ: 66
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 62
+POT READ: 59
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 55
+POT READ: 52
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 49
+POT READ: 45
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 42
+POT READ: 39
+POT READ: 35
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 33
+POT READ: 31
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 30
+POT READ: 29
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 27
+POT READ: 26
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 23
+POT READ: 22
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 20
+POT READ: 19
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 17
+POT READ: 15 
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 14
+POT READ: 12
+POT READ: 10
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 10
+POT READ: 8
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 7
+POT READ: 6
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 5
+POT READ: 4
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 3
+POT READ: 2
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 1
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Driving
+IR: Volume continuing down
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+MOTORPOT: Stopped after 250 mS delay
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0 
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0 
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
+POT READ: 0
